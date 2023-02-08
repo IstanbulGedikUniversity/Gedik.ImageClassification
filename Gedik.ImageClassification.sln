@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gedik.ImageClassification.Service", "Gedik.ImageClassification.Service\Gedik.ImageClassification.Service.csproj", "{6CC0ACBB-936A-40C5-B4DB-8B7B171D8B57}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gedik.ImageClassificationML.Model", "Gedik.ImageClassificationML.Model\Gedik.ImageClassificationML.Model.csproj", "{1DE95F37-B097-4FBF-8B21-2023AFF1D478}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gedik.ImageClassificationML.ConsoleApp", "Gedik.ImageClassificationML.ConsoleApp\Gedik.ImageClassificationML.ConsoleApp.csproj", "{58C785FA-1D94-4769-BD19-4D1D36470AF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CC0ACBB-936A-40C5-B4DB-8B7B171D8B57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CC0ACBB-936A-40C5-B4DB-8B7B171D8B57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CC0ACBB-936A-40C5-B4DB-8B7B171D8B57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CC0ACBB-936A-40C5-B4DB-8B7B171D8B57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DE95F37-B097-4FBF-8B21-2023AFF1D478}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DE95F37-B097-4FBF-8B21-2023AFF1D478}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DE95F37-B097-4FBF-8B21-2023AFF1D478}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DE95F37-B097-4FBF-8B21-2023AFF1D478}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58C785FA-1D94-4769-BD19-4D1D36470AF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58C785FA-1D94-4769-BD19-4D1D36470AF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58C785FA-1D94-4769-BD19-4D1D36470AF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58C785FA-1D94-4769-BD19-4D1D36470AF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDE5E919-5CC2-4A05-B9E0-EE11DDE1B417}
+	EndGlobalSection
+EndGlobal
